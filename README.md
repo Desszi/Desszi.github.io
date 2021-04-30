@@ -1,2 +1,2 @@
 # Desszi.github.io
-Demo page
+Képesítő vizsga publikáció
